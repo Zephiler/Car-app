@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Autosovellus</string>
+    <string name="title_activity_maps">Kartta</string>
+    <string name="title_starting_page">Aloita</string>
+    <string name="credits_txt">Sovellus on OAMK:n opinnaytetyon tuotos, jolla on tarkoitus pystya mittaamaan polttoaineen kulutus.
+        Lisaksi sovelluksella voidaan hakea katuosoite ja kunta, ja sovellus laittaa merkin haettuun osoitteeseen. </string>
+
+    <string name="info_header">Tietoa sovelluksesta</string>
+
+    <string name="close">Sulje</string>
+    <string name="exit">Poistu</string>
+    <string name="start">Käynnistä sovellus</string>
+    <string name="credits">Tietoa</string>
+    <string name="back">Palaa edelliselle sivulle</string>
+
+    <string name="consumeinfo">Kulutus: </string>
+    <string name="prize">Hinta: </string>
+
+    <string name="openingtext">Älä käytä tätä sovellusta navigoimiseen kun ajat autoa! </string>
+    <string name="openingtext2">Tämä on tarkoitettu vain polttoaineen kulutuksen mittaamiseen. </string>
+    <string name="cityandaddress">Kirjoita kaupunki ja osoite </string>
+    <string name="validlocation">Osoite ei kelpaa.. </string>
+    <string name="speed">Nopeus: </string>
+    <string name="literinfo"> litraa</string>
+    <string name="search">Etsi</string>
+    <string name="seconds"> sekuntia</string>
+    <string name="drivetime">Ajoaika: </string>
+    <string name="version">Versionumero 1.0</string>
+
+</resources>

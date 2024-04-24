@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_starting_page">Start</string>
+    <string name="credits_txt">This app is a production of Oulu University of Applied Sciences, which is created in order to
+        calculate approximate consumption of gasoline when driving a car.
+        It can also search a given address in a given town, and the app marks the given address.</string>
+
+    <string name="info_header">Some info of this App</string>
+
+    <string name="close">Close</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start Calculate</string>
+    <string name="credits">Credits</string>
+    <string name="back">Back to previous page</string>
+
+    <string name="consumeinfo">Consumption: </string>
+    <string name="prize">Cost: </string>
+
+    <string name="openingtext">Do not use this app to navigate while driving a car! </string>
+    <string name="openingtext2">This is meant to only use when you want to measure gasoline consuming. </string>
+    <string name="cityandaddress">Write city and address to search </string>
+    <string name="validlocation">Try to write a valid location..</string>
+    <string name="speed">Speed: </string>
+    <string name="literinfo">liters</string>
+    <string name="search">Search</string>
+    <string name="seconds">seconds</string>
+    <string name="drivetime">Drivetime: </string>
+    <string name="version">Version number 1.0</string>
+
+</resources>
